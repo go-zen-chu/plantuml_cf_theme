@@ -49,7 +49,6 @@ skinparam StereotypeIBorderColor #2D74BA
 skinparam StereotypeNBorderColor #2D74BA
 skinparam StorageBorderColor #2D74BA
 skinparam SwimlaneBorderColor #2D74BA
-skinparam TitleBorderColor #2D74BA
 skinparam UsecaseBorderColor #2D74BA
 
 ' BackgroundColor

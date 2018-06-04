@@ -18,7 +18,7 @@ skinparam CollectionsBorderColor #2D74BA
 skinparam ComponentBorderColor #2D74BA
 skinparam ControlBorderColor #2D74BA
 skinparam DatabaseBorderColor #2D74BA
-skinparam DiagramBorderColor #2D74BA
+'skinparam DiagramBorderColor #2D74BA
 skinparam EntityBorderColor #2D74BA
 skinparam FileBorderColor #2D74BA
 skinparam FolderBorderColor #2D74BA

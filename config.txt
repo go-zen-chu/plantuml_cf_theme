@@ -17,6 +17,7 @@ skinparam CloudBorderColor #2D74BA
 skinparam CollectionsBorderColor #2D74BA
 skinparam ComponentBorderColor #2D74BA
 skinparam ControlBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
 skinparam DatabaseBorderColor #2D74BA
 'skinparam DiagramBorderColor #2D74BA
 skinparam EntityBorderColor #2D74BA
@@ -64,6 +65,7 @@ skinparam ClassHeaderBackgroundColor #FFFFFF
 skinparam CloudBackgroundColor #FFFFFF
 skinparam CollectionsBackgroundColor #FFFFFF
 skinparam ComponentBackgroundColor #FFFFFF
+skinparam BoundaryBackgroundColor #FFFFFF
 skinparam ControlBackgroundColor #FFFFFF
 skinparam DatabaseBackgroundColor #FFFFFF
 skinparam EntityBackgroundColor #FFFFFF
